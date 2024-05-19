@@ -2,6 +2,7 @@ import FeatureSection from './Components/FeatureSection'
 import Navbar from './Components/Navbar'
 import HeroSection from './Components/HeroSection'
 import Workflow from './Components/Workflow'
+import Pricing from './Components/Pricing'
 
 const App = () => {
   return (
@@ -11,6 +12,8 @@ const App = () => {
     <HeroSection />
     <FeatureSection />
     <Workflow />
+    <Pricing />
+
 
 
     
